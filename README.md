@@ -1,5 +1,5 @@
 # Symfony Pusher Notifier
-This package adds support to [Symfony Notifier]() for sending push notifications via the [Pusher Beam](https://pusher.com/beams) API to iOS (APNS) devices, Android (FCM) devices, and browsers.
+This package adds support to [Symfony Notifier](https://github.com/symfony/notifier) for sending push notifications via the [Pusher Beam](https://pusher.com/beams) API to iOS (APNS) devices, Android (FCM) devices, and browsers.
 
 ## Installation
 Install this package using Composer:
